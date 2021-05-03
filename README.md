@@ -14,7 +14,7 @@ refernce : https://pytorch.org/docs/master/generated/torch.nn.Transformer.html?h
 
 reference : https://github.com/jo1jun/deep-learning-from-scratch2/tree/main/dataset
 
-## Coment
+## Comment
 학습용으로 Deep Learning from scratch2 에서 다루어본 간단한 날짜 형식 dataset 으로 transformer 을 구현해 보았다.
 
 핵심 이해 및 구현이 목적이므로 디테일은 추후에 다시 다루어볼 것.
