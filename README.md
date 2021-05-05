@@ -10,6 +10,8 @@ nn.TransformerEncoder, nn.TransformerDecoderLayer 등의 이미 구현된 module
 refernce : https://pytorch.org/docs/master/generated/torch.nn.Transformer.html?highlight=transformer#torch.nn.Transformer
 
 ## dataset
+date.txt    : 날짜 형식 data set
+sequence.py : data load / id-to-char / char-to-id 등의 util
 기존에 학습했던 deep learning from scratch 2 에서 사용했던 dataset 을 이용하였다.
 
 reference : https://github.com/jo1jun/deep-learning-from-scratch2/tree/main/dataset
