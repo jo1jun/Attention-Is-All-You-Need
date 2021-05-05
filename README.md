@@ -22,6 +22,9 @@ original  : https://github.com/WegraLee/deep-learning-from-scratch-2/tree/master
 ### attention example
 ![image](https://user-images.githubusercontent.com/68524289/117152229-cbef1180-adf4-11eb-9980-83b60b3edfc5.png)
 ![image](https://user-images.githubusercontent.com/68524289/117152144-b4b02400-adf4-11eb-85e3-62f2d6f19924.png)
+![image](https://user-images.githubusercontent.com/68524289/117153461-f2fa1300-adf5-11eb-9c97-20c8f17c44f1.png)
+![image](https://user-images.githubusercontent.com/68524289/117153505-01482f00-adf6-11eb-8432-93ba7bcb8252.png)
+
 ### generation example
 question 1 :  S u n d a y ,   M a y   2 7 ,   2 0 0 1                  
 correct 1  :  2 0 0 1 - 0 5 - 2 7                 
