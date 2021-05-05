@@ -13,8 +13,8 @@ refernce : https://pytorch.org/docs/master/generated/torch.nn.Transformer.html?h
 date.txt    : 날짜 형식 data set
 sequence.py : data load / id-to-char / char-to-id 등의 util
 기존에 학습했던 deep learning from scratch 2 에서 사용했던 dataset 을 이용하였다.
-
 reference : https://github.com/jo1jun/deep-learning-from-scratch2/tree/main/dataset
+original  : https://github.com/WegraLee/deep-learning-from-scratch-2/tree/master/dataset
 
 ## Comment
 학습용으로 Deep Learning from scratch2 에서 다루어본 간단한 날짜 형식 dataset 으로 transformer 을 구현해 보았다.
