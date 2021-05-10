@@ -20,10 +20,17 @@ original  : https://github.com/WegraLee/deep-learning-from-scratch-2/tree/master
 
 ## result
 ### attention example
-![image](https://user-images.githubusercontent.com/68524289/117152229-cbef1180-adf4-11eb-9980-83b60b3edfc5.png)
-![image](https://user-images.githubusercontent.com/68524289/117152144-b4b02400-adf4-11eb-85e3-62f2d6f19924.png)
-![image](https://user-images.githubusercontent.com/68524289/117153461-f2fa1300-adf5-11eb-9c97-20c8f17c44f1.png)
-![image](https://user-images.githubusercontent.com/68524289/117153505-01482f00-adf6-11eb-8432-93ba7bcb8252.png)
+![image](https://user-images.githubusercontent.com/68524289/117619608-71fe9b00-b1aa-11eb-8142-be6417b52dca.png)
+![image](https://user-images.githubusercontent.com/68524289/117619623-76c34f00-b1aa-11eb-9e80-a01e37177e86.png)
+![image](https://user-images.githubusercontent.com/68524289/117619633-7a56d600-b1aa-11eb-9fda-d9c2041e5cb3.png)
+![image](https://user-images.githubusercontent.com/68524289/117619645-7dea5d00-b1aa-11eb-81a8-2ad8fd78744f.png)
+![image](https://user-images.githubusercontent.com/68524289/117619653-804cb700-b1aa-11eb-8fc3-8ebe8e13454d.png)
+![image](https://user-images.githubusercontent.com/68524289/117619667-8347a780-b1aa-11eb-9a6d-87ca86641921.png)
+![image](https://user-images.githubusercontent.com/68524289/117619675-85aa0180-b1aa-11eb-82ca-3325b1d4f44a.png)
+![image](https://user-images.githubusercontent.com/68524289/117619683-88a4f200-b1aa-11eb-8f72-8279c9cae44e.png)
+![image](https://user-images.githubusercontent.com/68524289/117619690-8b074c00-b1aa-11eb-8ef9-0dd70f401998.png)
+![image](https://user-images.githubusercontent.com/68524289/117619702-8e023c80-b1aa-11eb-9726-ea6771ea1328.png)
+
 
 ### generation example
 question 1 :  1 0 / 1 5 / 9 4                                          
