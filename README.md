@@ -81,12 +81,12 @@ predict 10  :  2 0 1 6 - 1 1 - 0 6
 핵심 이해 및 구현이 목적이므로 디테일은 추후에 다시 다루어볼 것.
 
 ## TODO
-1. two embedding layers and pre-softamx linear layer weight share (가중치 공유 구현)
+1. another big dataset 에 적용해보기
 
-2. label smoothing (이해 및 구현)
+2. Image captioning with transformer
 
-3. another big dataset 에 적용해보기
+3. label smoothing (이해 및 구현)
 
-4. mage captioning with transformer
+4. two embedding layers and pre-softamx linear layer weight share (가중치 공유 구현)
 
 5. 다른 응용 task 에 접목
