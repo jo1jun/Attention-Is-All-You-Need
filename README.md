@@ -80,4 +80,13 @@ predict 10  :  2 0 1 6 - 1 1 - 0 6
 
 핵심 이해 및 구현이 목적이므로 디테일은 추후에 다시 다루어볼 것.
 
-TODO : code 내 TODO / two embedding layers and pre-softamx linear layer weight share / label smoothing / another big dataset 에 적용해보기 / 응용 task 에 접목
+## TODO
+1. two embedding layers and pre-softamx linear layer weight share (가중치 공유 구현)
+
+2. label smoothing (이해 및 구현)
+
+3. another big dataset 에 적용해보기
+
+4. mage captioning with transformer
+
+5. 다른 응용 task 에 접목
