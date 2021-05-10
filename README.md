@@ -26,21 +26,45 @@ original  : https://github.com/WegraLee/deep-learning-from-scratch-2/tree/master
 ![image](https://user-images.githubusercontent.com/68524289/117153505-01482f00-adf6-11eb-8432-93ba7bcb8252.png)
 
 ### generation example
-question 1 :  S u n d a y ,   M a y   2 7 ,   2 0 0 1                  
-correct 1  :  2 0 0 1 - 0 5 - 2 7                 
-predict 1  :  2 0 1 0 - 0 5 - 2 7
+question 1 :  1 0 / 1 5 / 9 4                                          
+correct 1  :  1 9 9 4 - 1 0 - 1 5
+predict 1  :  1 9 9 4 - 1 0 - 1 5
 
-question 2 :  A p r   2 2 ,   2 0 1 7                                  
-correct 2  :  2 0 1 7 - 0 4 - 2 2               
-predict 2  :  2 0 1 7 - 0 4 - 2 2
+question 2 :  t h u r s d a y ,   n o v e m b e r   1 3 ,   2 0 0 8    
+correct 2  :  2 0 0 8 - 1 1 - 1 3
+predict 2  :  2 0 0 8 - 1 1 - 1 3
 
-question 3 :  7 / 2 8 / 9 9                                            
-correct 3  :  1 9 9 9 - 0 7 - 2 8               
-predict 3  :  1 9 9 9 - 0 7 - 2 8
+question 3 :  M a r   2 5 ,   2 0 0 3                                  
+correct 3  :  2 0 0 3 - 0 3 - 2 5
+predict 3  :  2 0 0 3 - 0 3 - 2 5
 
-question 4 :  S a t u r d a y ,   J u l y   5 ,   1 9 8 0              
-correct 4  :  1 9 8 0 - 0 7 - 0 5                   
-predict 4  :  1 9 8 0 - 0 7 - 0 5
+question 4 :  T u e s d a y ,   N o v e m b e r   2 2 ,   2 0 1 6      
+correct 4  :  2 0 1 6 - 1 1 - 2 2
+predict 4  :  2 0 1 6 - 1 1 - 2 2
+
+question 5 :  S a t u r d a y ,   J u l y   1 8 ,   1 9 7 0            
+correct 5  :  1 9 7 0 - 0 7 - 1 8
+predict 5  :  1 9 7 0 - 0 7 - 1 8
+
+question 6 :  o c t o b e r   6 ,   1 9 9 2                            
+correct 6  :  1 9 9 2 - 1 0 - 0 6
+predict 6  :  1 9 9 2 - 1 0 - 0 6
+
+question 7 :  8 / 2 3 / 0 8                                            
+correct 7  :  2 0 0 8 - 0 8 - 2 3
+predict 7  :  2 0 0 8 - 0 8 - 2 3
+
+question 8 :  8 / 3 0 / 0 7                                            
+correct 8  :  2 0 0 7 - 0 8 - 3 0
+predict 8  :  2 0 0 7 - 0 8 - 3 0
+
+question 9 :  1 0 / 2 8 / 1 3                                          
+correct 9  :  2 0 1 3 - 1 0 - 2 8
+predict 9  :  2 0 1 3 - 1 0 - 2 8
+
+question 10 :  s u n d a y ,   n o v e m b e r   6 ,   2 0 1 6          
+correct 10  :  2 0 1 6 - 1 1 - 0 6
+predict 10  :  2 0 1 6 - 1 1 - 0 6
 
 ## Comment
 학습용으로 Deep Learning from scratch2 에서 다루어본 간단한 날짜 형식 dataset 으로 transformer 을 구현해 보았다.
