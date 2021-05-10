@@ -47,4 +47,4 @@ predict 4  :  1 9 8 0 - 0 7 - 0 5
 
 핵심 이해 및 구현이 목적이므로 디테일은 추후에 다시 다루어볼 것.
 
-TODO : code 내 TODO / two embedding layers and pre-softamx linear layer weight share / label smoothing / another big dataset 에 적용해보기 / hyperparmeter tuning 
+TODO : code 내 TODO / two embedding layers and pre-softamx linear layer weight share / label smoothing / another big dataset 에 적용해보기 / 응용 task 에 접목
