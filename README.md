@@ -2,7 +2,7 @@
 ## Paper : Attention Is All You Need / pdf : https://arxiv.org/pdf/1706.03762
 
 ## Transformer.ipynb
-nn.TransformerEncoder, nn.TransformerDecoder 을 이용하지 않고 custom 으로 직접 구현하였다.
+nn.TransformerEncoder, nn.TransformerDecoder 을 이용하지 않고 직접 구현하였다.
 
 ## Transformer_module.ipynb
 nn.TransformerEncoder, nn.TransformerDecoderLayer 등의 이미 구현된 module 들을 이용하여 구현하였다.
