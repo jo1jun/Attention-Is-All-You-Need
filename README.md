@@ -78,6 +78,10 @@ predict 10  :  2 0 1 6 - 1 1 - 0 6
 ## Comment
 학습용으로 Deep Learning from scratch2 에서 다루어본 간단한 날짜 형식 dataset 으로 transformer 을 구현해 보았다.
 
+참고로 nn.TransformerDecoderLayer 의 내부구조에서 nn.MultiheadAttention 을 사용하는데 이 때, attention 의 가중치 값은 배제한다.
+attention 의 값을 확인하고 싶다면 nn.MultiheadAttention 을 이용하여 모든 값을 return 받으며 custom decoder 를 구현하면 된다. 
+구현은  어렵지 않고 Transformer.ipynb 에서 이미 구현했으므로 생략.
+
 핵심 이해 및 구현이 목적이므로 디테일은 추후에 다시 다루어볼 것.
 
 ## TODO
